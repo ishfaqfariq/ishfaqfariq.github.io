@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 title: root@Ifariq~#
-description: >- # this means to ignore newlines until "baseurl:"
-  Applicatino Security Engineer | Software Engineer
+description: >-
+  Application Security Engineer | Software Engineer
 
 # Build settings
 
@@ -44,12 +43,3 @@ collections:
 # Adding Pagination
 #paginate: 5
 #paginate_path: "/posts/page:num"
-=======
-#theme: jekyll-theme-hacker
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: Ishfaq Fariq
-description: Application Security Engineer
-author: Ishfaq Fariq
->>>>>>> e1f921e7afc2cce6d0166badd8a136a214090d32
